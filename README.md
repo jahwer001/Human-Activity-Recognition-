@@ -12,7 +12,7 @@ Run the project on Jupyter [Notebook](https://jupyter.org/install) or [Anaconda]
 
 ### Key Features
 Classifies 50 different human activities from video inputs.
-
+        
 Leverages CNNs for spatial representation and BiLSTMs for temporal dynamics.
 
 Built as a research experiment to explore hybrid deep learning architectures for activity recognition.
@@ -20,3 +20,6 @@ Built as a research experiment to explore hybrid deep learning architectures for
 ### Notes
 
 This project was created for research and experimentation purposes, aiming to test the capability of combining CNNs and BiLSTMs in real-world video classification tasks.
+
+
+![Project Screenshot](image.png)
